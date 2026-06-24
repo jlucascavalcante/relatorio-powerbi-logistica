@@ -2,6 +2,10 @@
 
 Dashboard operacional de logística com foco em desempenho de entregas por canal, equipe, status e vendedor — combinando métricas de pontualidade com um sistema de rating dinâmico calculado via DAX para ranquear fornecedores por volume de entregas.
 
+## 📸 Preview do Dashboard
+
+![Preview do Dashboard](preview6.png)
+
 ---
 
 ## 🎯 Problema de negócio
